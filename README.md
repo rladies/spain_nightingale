@@ -31,6 +31,8 @@ El trabajo ganador será presentado como **comunicación en  la próxima Confere
 - Cada participante solo puede formar parte de un equipo (Solo se permitirá un envío por persona).
 - Todos los  trabajos serán publicados en el repositorio de Rladies: https://github.com/rladies/spain_nightingale
 
+![](https://github.com/rladies/spain_nightingale/blob/master/sponsors.png)
+
 ---
 
 --- ENGLISH version ---
@@ -69,5 +71,4 @@ The **winning project will be presented as a communication at the next Spanish B
 - Participants can only be part of one team (only one work per participant would be allowed).
 - All files will be published in the open Rladies repository: https://github.com/rladies/spain_nightingale
 
----
 ![](https://github.com/rladies/spain_nightingale/blob/master/sponsors.png)
