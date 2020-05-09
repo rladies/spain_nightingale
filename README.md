@@ -1,6 +1,6 @@
 # CONCURSO DE ANÁLISIS DE DATOS EN MOTIVO DE LOS 200 AÑOS DEL NACIMIENTO DE FLORENCE NIGHTINGALE
 
-Con el objetivo de conmemorar los 200 años del nacimiento de Florence Nightingale, precursora de la estadística y epidemiología moderna, y primera mujer admitida en la Royal Statistical Society, el colectivo de Rladies España (nodos de Barcelona, Madrid y Bilbao) en colaboración con la Sociedad Española de Biometría y la Sociedad Catalana de Estadística se complace en anunciar el concurso: *“200 AÑOS DE FLORENCE NIGHTINGALE”*.
+Con el objetivo de conmemorar los 200 años del nacimiento de [Florence Nightingale](https://es.wikipedia.org/wiki/Florence_Nightingale), precursora de la estadística y epidemiología moderna, y primera mujer admitida en la [Royal Statistical Society](https://es.wikipedia.org/wiki/Royal_Statistical_Society), el colectivo de [Rladies](https://rladies.org/) España (nodos de Barcelona, Madrid y Bilbao) en colaboración con la [Sociedad Española de Biometría](http://www.biometricsociety.net/) y la [Sociedad Catalana de Estadística](http://soce.iec.cat/) se complace en anunciar el concurso: *“200 AÑOS DE FLORENCE NIGHTINGALE”*.
 
 El objetivo del concurso consiste en analizar el conjunto de datos que Florence Nightingale utilizó para analizar las causas de mortalidad del ejército británico durante la guerra de Crimea y que sirvió para determinar los factores asociados a la alta mortalidad y reducirla significativamente.
 
@@ -21,7 +21,7 @@ La correcta recepción de los documentos se confirmará vía correo electrónico
 La fecha de comienzo será el 12 de mayo de 2020 (3PM, CEST). La fecha límite de envío de los documentos requeridos para participar al premio será el 12 de julio de 2020 (23:59h).  
 
 ## SELECCIÓN DE LOS PREMIADOS  
-El comité científico (formado por una representante de la junta de la Sociedad Española de Biometría, una representante de la junta de la Sociedad Catalana de Estadística, y tres representantes de Rladies España) seleccionará a los premiados en función de la calidad, presentación y originalidad del análisis de datos realizado. La comunicación de la decisión se realizará en otoño de  2020, en una sesión especial de Rladies.
+El comité científico (formado por una representante de la junta de la  [Sociedad Española de Biometría](http://www.biometricsociety.net/), una representante de la junta de la y la [Sociedad Catalana de Estadística](http://soce.iec.cat/), y tres representantes de Rladies España) seleccionará a los premiados en función de la calidad, presentación y originalidad del análisis de datos realizado. La comunicación de la decisión se realizará en otoño de  2020, en una sesión especial de Rladies.
 
 ## PREMIOS
 El trabajo ganador será presentado como comunicación en  la próxima Conferencia Española de Biometría que se celebrará en Septiembre de 2021 con sede en Madrid. (Inscripción y bolsa de viaje (max 500€) para una persona).
@@ -29,9 +29,10 @@ El trabajo ganador será presentado como comunicación en  la próxima Conferenc
 ## NOTAS IMPORTANTES: 
 - Solo se aceptarán los envíos realizados dentro del periodo especificado en la bases del concurso. Cualquier envío fuera de plazo quedará automáticamente descartado, y no podrá optar a los premios.
 - Cada participante solo puede formar parte de un equipo (Solo se permitirá un envío por persona).
-- Todos los  trabajos serán publicados en el repositorio de Rladies: …..
+- Todos los  trabajos serán publicados en el repositorio de Rladies: https://github.com/rladies/spain_nightingale
 
 
+--- ENGLISH version ---
 
 # DATA ANALYSIS COMPETITION ON THE OCCASION OF THE 200 YEARS OF THE BIRTH OF FLORENCE NIGHTINGALE
 
@@ -64,6 +65,6 @@ The winning work will be presented as a communication at the next Spanish Biomet
 ## IMPORTANT NOTES
 - We will only accept those files sent within the submission dates. 
 - Participants can only be part of one team (only one work per participant would be allowed).
-- All files will be published in the open Rladies repository: …..
+- All files will be published in the open Rladies repository: https://github.com/rladies/spain_nightingale
 
 
