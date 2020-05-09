@@ -11,8 +11,8 @@ A este premio podrán optar equipos de máximo 3 personas, y que **cumplan las s
 
 ## NORMAS DE ENVÍO
 Enviar un correo electrónico a bcn@rladies.org con el asunto *“FLORENCE_COMPETITION_2020”* indicando los datos del equipo: participantes (nombre del equipo, nombre participantes, y correo electrónico de contacto). Se deben adjuntar al correo: 
-- El código R utilizado para analizar los datos.
-- Una grabación en vídeo presentando los resultados (máx 5 minutos). 
+- El **código R** utilizado para analizar los datos.
+- Una **grabación en vídeo presentando los resultados** (máx 5 minutos). 
 - Material suplementario (opcional).
 
 La correcta recepción de los documentos se confirmará vía correo electrónico. El envío puede realizarse también mediante enlace de Dropbox o Wetransfer.
@@ -48,8 +48,8 @@ Teams with a maximum of 3 people, and who meet the **following conditions, may b
 ## GUIDELINES FOR PARTICIPATION
 Send an email to bcn@rladies.org with the subject **“FLORENCE_COMPETITION_2020”**. The mail must contain the information of the team: (team’s name, name of the participants and contact e-mail), and the following attached files:
 
-- The R code used to analyze the data.
-- A video recording presenting the results (max. 5 minutes) 
+- The **R code** used to analyze the data.
+- A **video recording presenting the results** (max. 5 minutes) 
 - Supplemental material (optional).
 
 Teams will receive an email indicating the correct reception. Files can be also sent via Dropbox or Wetrabsfer links.
