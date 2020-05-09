@@ -26,7 +26,7 @@ El comité científico (formado por una representante de la junta de la  [Socied
 ## PREMIOS
 El trabajo ganador será presentado como **comunicación en  la próxima Conferencia Española de Biometría** que se celebrará en Septiembre de 2021 con sede en Madrid. (Inscripción y bolsa de viaje (max 500€) para una persona).
 
-## NOTAS IMPORTANTES: 
+### NOTAS IMPORTANTES: 
 - Solo se aceptarán los envíos realizados dentro del periodo especificado en la bases del concurso. Cualquier envío fuera de plazo quedará automáticamente descartado, y no podrá optar a los premios.
 - Cada participante solo puede formar parte de un equipo (Solo se permitirá un envío por persona).
 - Todos los  trabajos serán publicados en el repositorio de Rladies: https://github.com/rladies/spain_nightingale
@@ -66,7 +66,7 @@ The Scientific Committee (formed by a representative of the board of the Spanish
 ## AWARDS
 The **winning project will be presented as a communication at the next Spanish Biometric Conference** to be held in September 2021, in Madrid. (Registration and “travel bag” of maximum 500 €, included for one person).
 
-## IMPORTANT NOTES
+### IMPORTANT NOTES
 - We will only accept those files sent within the submission dates. 
 - Participants can only be part of one team (only one work per participant would be allowed).
 - All files will be published in the open Rladies repository: https://github.com/rladies/spain_nightingale
