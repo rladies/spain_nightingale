@@ -2,7 +2,7 @@
 
 Con el objetivo de conmemorar los 200 años del nacimiento de [Florence Nightingale](https://es.wikipedia.org/wiki/Florence_Nightingale), precursora de la estadística y epidemiología moderna, y primera mujer admitida en la [Royal Statistical Society](https://es.wikipedia.org/wiki/Royal_Statistical_Society), el colectivo de [Rladies](https://rladies.org/) España (nodos de Barcelona, Madrid y Bilbao) en colaboración con la [Sociedad Española de Biometría](http://www.biometricsociety.net/) y la [Sociedad Catalana de Estadística](http://soce.iec.cat/) se complace en anunciar el concurso: **“200 AÑOS DE FLORENCE NIGHTINGALE”**.
 
-El objetivo del **concurso consiste en analizar el [conjunto de datos que Florence Nightingale utilizó para analizar las causas de mortalidad del ejército británico durante la guerra de Crimea**](https://github.com/rladies/spain_nightingale/blob/master/datos_florence.xlsx) y que sirvió para determinar los factores asociados a la alta mortalidad y reducirla significativamente.
+El objetivo del concurso consiste en analizar el [conjunto de datos que Florence Nightingale utilizó para analizar las causas de mortalidad del ejército británico durante la guerra de Crimea](https://github.com/rladies/spain_nightingale/blob/master/datos_florence.xlsx) y que sirvió para determinar los factores asociados a la alta mortalidad y reducirla significativamente.
 
 ## CRITERIOS DE PARTICIPACIÓN
 A este premio podrán optar equipos de máximo 3 personas, y que **cumplan las siguientes condiciones**:  
@@ -41,7 +41,7 @@ El trabajo ganador será presentado como **comunicación en  la próxima Confere
 
 To commemorate the 200th anniversary of the birth of [Florence Nightingale](https://es.wikipedia.org/wiki/Florence_Nightingale), pioneer of modern statistics and epidemiology, and the first woman admitted to the [Royal Statistical Society](https://es.wikipedia.org/wiki/Royal_Statistical_Society), the [Rladies](https://rladies.org/) Spain organization (nodes of Barcelona, Madrid, and Bilbao), in collaboration with the [Spanish Biometric Society](http://www.biometricsociety.net/) and the [Catalan Statistical Society](http://soce.iec.cat/) are pleased to announce the data analysis competition: **“200 YEARS OF FLORENCE NIGHTINGALE”**.
 
-The competition **aims to analyze [the data set that Florence Nightingale used to determine the causes of death of the British Army during the Crimean War**](https://github.com/rladies/spain_nightingale/blob/master/datos_florence.xlsx), and which served to analyze the factors associated with high mortality and to reduce it significantly.
+The competition aims to analyze [the data set that Florence Nightingale used to determine the causes of death of the British Army during the Crimean War](https://github.com/rladies/spain_nightingale/blob/master/datos_florence.xlsx), and which served to analyze the factors associated with high mortality and to reduce it significantly.
 
 ## ELIGIBILITY CRITERIA
 Teams with a maximum of 3 people, and who meet the **following conditions, may be eligible for this award**:
