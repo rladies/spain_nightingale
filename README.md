@@ -69,4 +69,5 @@ The **winning project will be presented as a communication at the next Spanish B
 - Participants can only be part of one team (only one work per participant would be allowed).
 - All files will be published in the open Rladies repository: https://github.com/rladies/spain_nightingale
 
-
+---
+![](https://github.com/rladies/spain_nightingale/blob/master/sponsors.png)
