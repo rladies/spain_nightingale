@@ -1,4 +1,4 @@
-# CONCURSO DE ANÁLISIS DE DATOS EN MOTIVO DE LOS 200 AÑOS DEL NACIMIENTO DE FLORENCE NIGHTINGALE
+# CONCURSO DE ANÁLISIS DE DATOS CON MOTIVO DE LOS 200 AÑOS DEL NACIMIENTO DE FLORENCE NIGHTINGALE
 
 Con el objetivo de conmemorar los 200 años del nacimiento de [Florence Nightingale](https://es.wikipedia.org/wiki/Florence_Nightingale), precursora de la estadística y epidemiología moderna, y primera mujer admitida en la [Royal Statistical Society](https://es.wikipedia.org/wiki/Royal_Statistical_Society), el colectivo de [Rladies](https://rladies.org/) España (nodos de Barcelona, Madrid y Bilbao) en colaboración con la [Sociedad Española de Biometría](http://www.biometricsociety.net/) y la [Sociedad Catalana de Estadística](http://soce.iec.cat/) se complace en anunciar el concurso: **“200 AÑOS DE FLORENCE NIGHTINGALE”**.
 
