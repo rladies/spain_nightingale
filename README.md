@@ -24,7 +24,7 @@ La fecha de comienzo será el **12 de mayo de 2020 (3PM, CEST)**. La fecha lími
 El comité científico (formado por una representante de la junta de la  [Sociedad Española de Biometría](http://www.biometricsociety.net/), una representante de la junta de la y la [Sociedad Catalana de Estadística](http://soce.iec.cat/), y tres representantes de Rladies España) seleccionará a los premiados en función de la calidad, presentación y originalidad del análisis de datos realizado. **La comunicación de la decisión se realizará en otoño de  2020**, en una sesión especial de Rladies.
 
 ## PREMIOS
-El trabajo ganador será presentado como **comunicación en  la próxima Conferencia Española de Biometría** que se celebrará en Septiembre de 2021 con sede en Madrid. (Inscripción y bolsa de viaje (max 500€) para una persona).
+El trabajo ganador será presentado como **comunicación en  la próxima Conferencia Española de Biometría** que se celebrará en Septiembre de 2021 con sede en Madrid. (Inscripción y bolsa de viaje (max 500€) para una persona). El segundo premio será una bola económica (300€) que se podrá utilizar para este mismo congreso, o para un lote de libros. 
 
 ### NOTAS IMPORTANTES: 
 - Solo se aceptarán los envíos realizados dentro del periodo especificado en la bases del concurso. Cualquier envío fuera de plazo quedará automáticamente descartado, y no podrá optar a los premios.
@@ -64,7 +64,7 @@ The competition will start on **May 12th, 2020 (3 PM, CEST)**. The deadline for 
 The Scientific Committee (formed by a representative of the board of the Spanish Biometric Conference, a representative of the board of the Catalan Statistical Society, and three representatives of Rladies Spain) will select the winners considering the quality and originality of the analysis. **The decision of the Scientific Committee will be notified to the participants by autumn 2020**, in a special session of Rladies.
 
 ## AWARDS
-The **winning project will be presented as a communication at the next Spanish Biometric Conference** to be held in September 2021, in Madrid. (Registration and “travel bag” of maximum 500 €, included for one person).
+The **winning project will be presented as a communication at the next Spanish Biometric Conference** to be held in September 2021, in Madrid. (Registration and “travel bag” of maximum 500 €, included for one person). The second winner will be awarded a "travel bag" (300 €), that can be used for the participation in the conference, or for a pack of books.
 
 ### IMPORTANT NOTES
 - We will only accept those files sent within the submission dates. 
