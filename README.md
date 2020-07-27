@@ -18,7 +18,7 @@ Enviar un correo electrónico a bcn@rladies.org con el asunto *“FLORENCE_COMPE
 La correcta recepción de los documentos se confirmará vía correo electrónico. El envío puede realizarse también mediante enlace de Dropbox o Wetransfer.
 
 ## PLAZO DE ENVÍO:
-La fecha de comienzo será el **12 de mayo de 2020 (3PM, CEST)**. La fecha límite de envío de los documentos requeridos para participar al premio será el **12 de julio de 2020 (11:59PM, CEST)**.  
+La fecha de comienzo será el **12 de mayo de 2020 (3PM, CEST)**. La fecha límite de envío de los documentos requeridos para participar al premio será el **12 de AGOSTO de 2020 (11:59PM, CEST)**.  
 
 ## SELECCIÓN DE LOS PREMIADOS  
 El comité científico (formado por una representante de la junta de la  [Sociedad Española de Biometría](http://www.biometricsociety.net/), una representante de la junta de la y la [Sociedad Catalana de Estadística](http://soce.iec.cat/), y tres representantes de Rladies España) seleccionará a los premiados en función de la calidad, presentación y originalidad del análisis de datos realizado. **La comunicación de la decisión se realizará en otoño de  2020**, en una sesión especial de Rladies.
@@ -58,7 +58,7 @@ Send an email to bcn@rladies.org with the subject **“FLORENCE_COMPETITION_2020
 Teams will receive an email indicating the correct reception. Files can be also sent via Dropbox or Wetrabsfer links.
 
 ## SUBMISSION DATES
-The competition will start on **May 12th, 2020 (3 PM, CEST)**. The deadline for sending the required files to participate in the award will be on **July 12th, 2020 (11:59 PM, CEST)**.
+The competition will start on **May 12th, 2020 (3 PM, CEST)**. The deadline for sending the required files to participate in the award will be on **AUGUST 12th, 2020 (11:59 PM, CEST)**.
 
 ## SELECTION OF AWARDS
 The Scientific Committee (formed by a representative of the board of the Spanish Biometric Conference, a representative of the board of the Catalan Statistical Society, and three representatives of Rladies Spain) will select the winners considering the quality and originality of the analysis. **The decision of the Scientific Committee will be notified to the participants by autumn 2020**, in a special session of Rladies.
